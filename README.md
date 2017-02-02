@@ -1,1 +1,1 @@
-# KAT_example
+# KAT-example
